@@ -1,0 +1,963 @@
+Claims_Thru_Dt,Measure_Level,Measure_Element,Measure_Unit,Value
+02/20/2021,COVID-19 Cases,Overall,Beneficiary Count,3860957
+02/20/2021,COVID-19 Cases by State,Alabama,Beneficiary Count,86496
+02/20/2021,COVID-19 Cases by State,Alaska,Beneficiary Count,3023
+02/20/2021,COVID-19 Cases by State,Arizona,Beneficiary Count,100260
+02/20/2021,COVID-19 Cases by State,Arkansas,Beneficiary Count,45366
+02/20/2021,COVID-19 Cases by State,California,Beneficiary Count,338346
+02/20/2021,COVID-19 Cases by State,Colorado,Beneficiary Count,40837
+02/20/2021,COVID-19 Cases by State,Connecticut,Beneficiary Count,45536
+02/20/2021,COVID-19 Cases by State,Delaware,Beneficiary Count,11247
+02/20/2021,COVID-19 Cases by State,District Of Columbia,Beneficiary Count,6191
+02/20/2021,COVID-19 Cases by State,Florida,Beneficiary Count,245845
+02/20/2021,COVID-19 Cases by State,Georgia,Beneficiary Count,132114
+02/20/2021,COVID-19 Cases by State,Hawaii,Beneficiary Count,3108
+02/20/2021,COVID-19 Cases by State,Idaho,Beneficiary Count,20117
+02/20/2021,COVID-19 Cases by State,Illinois,Beneficiary Count,156213
+02/20/2021,COVID-19 Cases by State,Indiana,Beneficiary Count,93796
+02/20/2021,COVID-19 Cases by State,Iowa,Beneficiary Count,40781
+02/20/2021,COVID-19 Cases by State,Kansas,Beneficiary Count,35133
+02/20/2021,COVID-19 Cases by State,Kentucky,Beneficiary Count,60988
+02/20/2021,COVID-19 Cases by State,Louisiana,Beneficiary Count,82421
+02/20/2021,COVID-19 Cases by State,Maine,Beneficiary Count,7046
+02/20/2021,COVID-19 Cases by State,Maryland,Beneficiary Count,54921
+02/20/2021,COVID-19 Cases by State,Massachusetts,Beneficiary Count,82730
+02/20/2021,COVID-19 Cases by State,Michigan,Beneficiary Count,109929
+02/20/2021,COVID-19 Cases by State,Minnesota,Beneficiary Count,56431
+02/20/2021,COVID-19 Cases by State,Missing Data,Beneficiary Count,1003
+02/20/2021,COVID-19 Cases by State,Mississippi,Beneficiary Count,56937
+02/20/2021,COVID-19 Cases by State,Missouri,Beneficiary Count,88171
+02/20/2021,COVID-19 Cases by State,Montana,Beneficiary Count,14937
+02/20/2021,COVID-19 Cases by State,Nebraska,Beneficiary Count,21773
+02/20/2021,COVID-19 Cases by State,Nevada,Beneficiary Count,29395
+02/20/2021,COVID-19 Cases by State,New Hampshire,Beneficiary Count,10514
+02/20/2021,COVID-19 Cases by State,New Jersey,Beneficiary Count,152911
+02/20/2021,COVID-19 Cases by State,New Mexico,Beneficiary Count,19974
+02/20/2021,COVID-19 Cases by State,New York,Beneficiary Count,304299
+02/20/2021,COVID-19 Cases by State,North Carolina,Beneficiary Count,113988
+02/20/2021,COVID-19 Cases by State,North Dakota,Beneficiary Count,9347
+02/20/2021,COVID-19 Cases by State,Ohio,Beneficiary Count,150021
+02/20/2021,COVID-19 Cases by State,Oklahoma,Beneficiary Count,58800
+02/20/2021,COVID-19 Cases by State,Oregon,Beneficiary Count,17381
+02/20/2021,COVID-19 Cases by State,Pennsylvania,Beneficiary Count,167201
+02/20/2021,COVID-19 Cases by State,Puerto Rico,Beneficiary Count,39984
+02/20/2021,COVID-19 Cases by State,Rhode Island,Beneficiary Count,15210
+02/20/2021,COVID-19 Cases by State,South Carolina,Beneficiary Count,73728
+02/20/2021,COVID-19 Cases by State,South Dakota,Beneficiary Count,15353
+02/20/2021,COVID-19 Cases by State,Tennessee,Beneficiary Count,88830
+02/20/2021,COVID-19 Cases by State,Territories,Beneficiary Count,256
+02/20/2021,COVID-19 Cases by State,Texas,Beneficiary Count,332177
+02/20/2021,COVID-19 Cases by State,Utah,Beneficiary Count,21085
+02/20/2021,COVID-19 Cases by State,Vermont,Beneficiary Count,2096
+02/20/2021,COVID-19 Cases by State,Virgin Islands,Beneficiary Count,423
+02/20/2021,COVID-19 Cases by State,Virginia,Beneficiary Count,72055
+02/20/2021,COVID-19 Cases by State,Washington,Beneficiary Count,36583
+02/20/2021,COVID-19 Cases by State,West Virginia,Beneficiary Count,20587
+02/20/2021,COVID-19 Cases by State,Wisconsin,Beneficiary Count,61204
+02/20/2021,COVID-19 Cases by State,Wyoming,Beneficiary Count,5859
+02/20/2021,COVID-19 Cases by Rural/Urban,Missing Data,Beneficiary Count,10258
+02/20/2021,COVID-19 Cases by Rural/Urban,Rural,Beneficiary Count,776256
+02/20/2021,COVID-19 Cases by Rural/Urban,Urban,Beneficiary Count,3074443
+02/20/2021,COVID-19 Cases by Age Group,65-74,Beneficiary Count,1473512
+02/20/2021,COVID-19 Cases by Age Group,75-84,Beneficiary Count,1145747
+02/20/2021,COVID-19 Cases by Age Group,85 And Over,Beneficiary Count,752084
+02/20/2021,COVID-19 Cases by Age Group,Less Than 65,Beneficiary Count,489041
+02/20/2021,COVID-19 Cases by Age Group,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Race,American Indian / Alaska Native,Beneficiary Count,25126
+02/20/2021,COVID-19 Cases by Race,Asian / Pacific Islander,Beneficiary Count,95470
+02/20/2021,COVID-19 Cases by Race,Black/African American,Beneficiary Count,503612
+02/20/2021,COVID-19 Cases by Race,Hispanic,Beneficiary Count,510087
+02/20/2021,COVID-19 Cases by Race,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Race,Other/Unknown,Beneficiary Count,76766
+02/20/2021,COVID-19 Cases by Race,White,Beneficiary Count,2649323
+02/20/2021,COVID-19 Cases by Sex,Female,Beneficiary Count,2171216
+02/20/2021,COVID-19 Cases by Sex,Male,Beneficiary Count,1689168
+02/20/2021,COVID-19 Cases by Sex,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Medicare Status,Aged,Beneficiary Count,3287410
+02/20/2021,COVID-19 Cases by Medicare Status,Disabled,Beneficiary Count,488018
+02/20/2021,COVID-19 Cases by Medicare Status,ESRD,Beneficiary Count,84956
+02/20/2021,COVID-19 Cases by Medicare Status,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Dual Status,Dual Medicare And Medicaid,Beneficiary Count,1338113
+02/20/2021,COVID-19 Cases by Dual Status,Medicare Only,Beneficiary Count,2522271
+02/20/2021,COVID-19 Cases by Dual Status,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - 65-74,Beneficiary Count,390328
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - 75-84,Beneficiary Count,335232
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - 85 And Over,Beneficiary Count,291716
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - Less Than 65,Beneficiary Count,320837
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - 65-74,Beneficiary Count,1083184
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - 75-84,Beneficiary Count,810515
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - 85 And Over,Beneficiary Count,460368
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - Less Than 65,Beneficiary Count,168204
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - American Indian / Alaska Native,Beneficiary Count,12735
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Asian / Pacific Islander,Beneficiary Count,51779
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Black/African American,Beneficiary Count,273171
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Hispanic,Beneficiary Count,264910
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Other/Unknown,Beneficiary Count,23901
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - White,Beneficiary Count,711617
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - American Indian / Alaska Native,Beneficiary Count,12391
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Asian / Pacific Islander,Beneficiary Count,43691
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Black/African American,Beneficiary Count,230441
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Hispanic,Beneficiary Count,245177
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Other/Unknown,Beneficiary Count,52865
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - White,Beneficiary Count,1937706
+02/20/2021,COVID-19 Cases by Dual Status and Race,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Dual Medicare And Medicaid - Female,Beneficiary Count,828516
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Dual Medicare And Medicaid - Male,Beneficiary Count,509597
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Medicare Only - Female,Beneficiary Count,1342700
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Medicare Only - Male,Beneficiary Count,1179571
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Dual Medicare And Medicaid - Aged,Beneficiary Count,975197
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Dual Medicare And Medicaid - Disabled,Beneficiary Count,314866
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Dual Medicare And Medicaid - Esrd,Beneficiary Count,48050
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Medicare Only - Aged,Beneficiary Count,2312213
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Medicare Only - Disabled,Beneficiary Count,173152
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Medicare Only - Esrd,Beneficiary Count,36906
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases,Overall,Beneficiary Count per 100K,6144
+02/20/2021,COVID-19 Cases by State,Alabama,Beneficiary Count per 100K,8142
+02/20/2021,COVID-19 Cases by State,Alaska,Beneficiary Count per 100K,2896
+02/20/2021,COVID-19 Cases by State,Arizona,Beneficiary Count per 100K,7309
+02/20/2021,COVID-19 Cases by State,Arkansas,Beneficiary Count per 100K,7014
+02/20/2021,COVID-19 Cases by State,California,Beneficiary Count per 100K,5285
+02/20/2021,COVID-19 Cases by State,Colorado,Beneficiary Count per 100K,4348
+02/20/2021,COVID-19 Cases by State,Connecticut,Beneficiary Count per 100K,6588
+02/20/2021,COVID-19 Cases by State,Delaware,Beneficiary Count per 100K,5202
+02/20/2021,COVID-19 Cases by State,District Of Columbia,Beneficiary Count per 100K,6597
+02/20/2021,COVID-19 Cases by State,Florida,Beneficiary Count per 100K,5244
+02/20/2021,COVID-19 Cases by State,Georgia,Beneficiary Count per 100K,7447
+02/20/2021,COVID-19 Cases by State,Hawaii,Beneficiary Count per 100K,1105
+02/20/2021,COVID-19 Cases by State,Idaho,Beneficiary Count per 100K,5745
+02/20/2021,COVID-19 Cases by State,Illinois,Beneficiary Count per 100K,6901
+02/20/2021,COVID-19 Cases by State,Indiana,Beneficiary Count per 100K,7308
+02/20/2021,COVID-19 Cases by State,Iowa,Beneficiary Count per 100K,6399
+02/20/2021,COVID-19 Cases by State,Kansas,Beneficiary Count per 100K,6429
+02/20/2021,COVID-19 Cases by State,Kentucky,Beneficiary Count per 100K,6467
+02/20/2021,COVID-19 Cases by State,Louisiana,Beneficiary Count per 100K,9323
+02/20/2021,COVID-19 Cases by State,Maine,Beneficiary Count per 100K,2025
+02/20/2021,COVID-19 Cases by State,Maryland,Beneficiary Count per 100K,5195
+02/20/2021,COVID-19 Cases by State,Massachusetts,Beneficiary Count per 100K,6120
+02/20/2021,COVID-19 Cases by State,Michigan,Beneficiary Count per 100K,5235
+02/20/2021,COVID-19 Cases by State,Minnesota,Beneficiary Count per 100K,5393
+02/20/2021,COVID-19 Cases by State,Missing Data,Beneficiary Count per 100K,85
+02/20/2021,COVID-19 Cases by State,Mississippi,Beneficiary Count per 100K,9336
+02/20/2021,COVID-19 Cases by State,Missouri,Beneficiary Count per 100K,7063
+02/20/2021,COVID-19 Cases by State,Montana,Beneficiary Count per 100K,6276
+02/20/2021,COVID-19 Cases by State,Nebraska,Beneficiary Count per 100K,6152
+02/20/2021,COVID-19 Cases by State,Nevada,Beneficiary Count per 100K,5347
+02/20/2021,COVID-19 Cases by State,New Hampshire,Beneficiary Count per 100K,3415
+02/20/2021,COVID-19 Cases by State,New Jersey,Beneficiary Count per 100K,9355
+02/20/2021,COVID-19 Cases by State,New Mexico,Beneficiary Count per 100K,4617
+02/20/2021,COVID-19 Cases by State,New York,Beneficiary Count per 100K,8301
+02/20/2021,COVID-19 Cases by State,North Carolina,Beneficiary Count per 100K,5594
+02/20/2021,COVID-19 Cases by State,North Dakota,Beneficiary Count per 100K,6960
+02/20/2021,COVID-19 Cases by State,Ohio,Beneficiary Count per 100K,6304
+02/20/2021,COVID-19 Cases by State,Oklahoma,Beneficiary Count per 100K,7803
+02/20/2021,COVID-19 Cases by State,Oregon,Beneficiary Count per 100K,1961
+02/20/2021,COVID-19 Cases by State,Pennsylvania,Beneficiary Count per 100K,6027
+02/20/2021,COVID-19 Cases by State,Puerto Rico,Beneficiary Count per 100K,5327
+02/20/2021,COVID-19 Cases by State,Rhode Island,Beneficiary Count per 100K,6771
+02/20/2021,COVID-19 Cases by State,South Carolina,Beneficiary Count per 100K,6655
+02/20/2021,COVID-19 Cases by State,South Dakota,Beneficiary Count per 100K,8517
+02/20/2021,COVID-19 Cases by State,Tennessee,Beneficiary Count per 100K,6410
+02/20/2021,COVID-19 Cases by State,Territories,Beneficiary Count per 100K,1396
+02/20/2021,COVID-19 Cases by State,Texas,Beneficiary Count per 100K,7746
+02/20/2021,COVID-19 Cases by State,Utah,Beneficiary Count per 100K,5075
+02/20/2021,COVID-19 Cases by State,Vermont,Beneficiary Count per 100K,1385
+02/20/2021,COVID-19 Cases by State,Virgin Islands,Beneficiary Count per 100K,2114
+02/20/2021,COVID-19 Cases by State,Virginia,Beneficiary Count per 100K,4661
+02/20/2021,COVID-19 Cases by State,Washington,Beneficiary Count per 100K,2614
+02/20/2021,COVID-19 Cases by State,West Virginia,Beneficiary Count per 100K,4652
+02/20/2021,COVID-19 Cases by State,Wisconsin,Beneficiary Count per 100K,5096
+02/20/2021,COVID-19 Cases by State,Wyoming,Beneficiary Count per 100K,5140
+02/20/2021,COVID-19 Cases by Rural/Urban,Missing Data,Beneficiary Count per 100K,1487
+02/20/2021,COVID-19 Cases by Rural/Urban,Rural,Beneficiary Count per 100K,6414
+02/20/2021,COVID-19 Cases by Rural/Urban,Urban,Beneficiary Count per 100K,6138
+02/20/2021,COVID-19 Cases by Age Group,65-74,Beneficiary Count per 100K,5031
+02/20/2021,COVID-19 Cases by Age Group,75-84,Beneficiary Count per 100K,6314
+02/20/2021,COVID-19 Cases by Age Group,85 And Over,Beneficiary Count per 100K,9826
+02/20/2021,COVID-19 Cases by Age Group,Less Than 65,Beneficiary Count per 100K,6311
+02/20/2021,COVID-19 Cases by Race,American Indian / Alaska Native,Beneficiary Count per 100K,9490
+02/20/2021,COVID-19 Cases by Race,Asian / Pacific Islander,Beneficiary Count per 100K,4235
+02/20/2021,COVID-19 Cases by Race,Black/African American,Beneficiary Count per 100K,7626
+02/20/2021,COVID-19 Cases by Race,Hispanic,Beneficiary Count per 100K,8413
+02/20/2021,COVID-19 Cases by Race,Other/Unknown,Beneficiary Count per 100K,4418
+02/20/2021,COVID-19 Cases by Race,White,Beneficiary Count per 100K,5770
+02/20/2021,COVID-19 Cases by Sex,Female,Beneficiary Count per 100K,6359
+02/20/2021,COVID-19 Cases by Sex,Male,Beneficiary Count per 100K,5886
+02/20/2021,COVID-19 Cases by Medicare Status,Aged,Beneficiary Count per 100K,6047
+02/20/2021,COVID-19 Cases by Medicare Status,Disabled,Beneficiary Count per 100K,6067
+02/20/2021,COVID-19 Cases by Medicare Status,ESRD,Beneficiary Count per 100K,19492
+02/20/2021,COVID-19 Cases by Dual Status,Dual Medicare And Medicaid,Beneficiary Count per 100K,11568
+02/20/2021,COVID-19 Cases by Dual Status,Medicare Only,Beneficiary Count per 100K,4919
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - 65-74,Beneficiary Count per 100K,10167
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - 75-84,Beneficiary Count per 100K,14564
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - 85 And Over,Beneficiary Count per 100K,22449
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Dual Medicare And Medicaid - Less Than 65,Beneficiary Count per 100K,7775
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - 65-74,Beneficiary Count per 100K,4256
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - 75-84,Beneficiary Count per 100K,5115
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - 85 And Over,Beneficiary Count per 100K,7244
+02/20/2021,COVID-19 Cases by Dual Status and Age Group,Medicare Only - Less Than 65,Beneficiary Count per 100K,4643
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - American Indian / Alaska Native,Beneficiary Count per 100K,13175
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Asian / Pacific Islander,Beneficiary Count per 100K,6644
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Black/African American,Beneficiary Count per 100K,11446
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Hispanic,Beneficiary Count per 100K,12475
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - Other/Unknown,Beneficiary Count per 100K,9093
+02/20/2021,COVID-19 Cases by Dual Status and Race,Dual Medicare And Medicaid - White,Beneficiary Count per 100K,12024
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - American Indian / Alaska Native,Beneficiary Count per 100K,7371
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Asian / Pacific Islander,Beneficiary Count per 100K,2962
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Black/African American,Beneficiary Count per 100K,5465
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Hispanic,Beneficiary Count per 100K,6223
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - Other/Unknown,Beneficiary Count per 100K,3585
+02/20/2021,COVID-19 Cases by Dual Status and Race,Medicare Only - White,Beneficiary Count per 100K,4844
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Dual Medicare And Medicaid - Female,Beneficiary Count per 100K,12026
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Dual Medicare And Medicaid - Male,Beneficiary Count per 100K,10895
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Medicare Only - Female,Beneficiary Count per 100K,4927
+02/20/2021,COVID-19 Cases by Dual Status and Sex,Medicare Only - Male,Beneficiary Count per 100K,4910
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Dual Medicare And Medicaid - Aged,Beneficiary Count per 100K,13571
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Dual Medicare And Medicaid - Disabled,Beneficiary Count per 100K,7497
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Dual Medicare And Medicaid - Esrd,Beneficiary Count per 100K,26457
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Medicare Only - Aged,Beneficiary Count per 100K,4901
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Medicare Only - Disabled,Beneficiary Count per 100K,4504
+02/20/2021,COVID-19 Cases by Dual Status and Medicare Status,Medicare Only - Esrd,Beneficiary Count per 100K,14516
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/02/2021,Beneficiary Count,199866
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/04/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/09/2021,Beneficiary Count,191995
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/11/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/16/2021,Beneficiary Count,162906
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/18/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/23/2021,Beneficiary Count,138264
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/25/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),01/30/2021,Beneficiary Count,114880
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/01/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/06/2021,Beneficiary Count,91285
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/08/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/13/2021,Beneficiary Count,60966
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/15/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/20/2021,Beneficiary Count,40369
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/22/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),02/29/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),03/07/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),03/14/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),03/21/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),03/28/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases (U07.1),04/04/2020,Beneficiary Count,27362
+02/20/2021,COVID-19 Weekly Cases (U07.1),04/11/2020,Beneficiary Count,53276
+02/20/2021,COVID-19 Weekly Cases (U07.1),04/18/2020,Beneficiary Count,54200
+02/20/2021,COVID-19 Weekly Cases (U07.1),04/25/2020,Beneficiary Count,55001
+02/20/2021,COVID-19 Weekly Cases (U07.1),05/02/2020,Beneficiary Count,64995
+02/20/2021,COVID-19 Weekly Cases (U07.1),05/09/2020,Beneficiary Count,48569
+02/20/2021,COVID-19 Weekly Cases (U07.1),05/16/2020,Beneficiary Count,47459
+02/20/2021,COVID-19 Weekly Cases (U07.1),05/23/2020,Beneficiary Count,46973
+02/20/2021,COVID-19 Weekly Cases (U07.1),05/30/2020,Beneficiary Count,40810
+02/20/2021,COVID-19 Weekly Cases (U07.1),06/06/2020,Beneficiary Count,45623
+02/20/2021,COVID-19 Weekly Cases (U07.1),06/13/2020,Beneficiary Count,39275
+02/20/2021,COVID-19 Weekly Cases (U07.1),06/20/2020,Beneficiary Count,41394
+02/20/2021,COVID-19 Weekly Cases (U07.1),06/27/2020,Beneficiary Count,49271
+02/20/2021,COVID-19 Weekly Cases (U07.1),07/04/2020,Beneficiary Count,59567
+02/20/2021,COVID-19 Weekly Cases (U07.1),07/11/2020,Beneficiary Count,65886
+02/20/2021,COVID-19 Weekly Cases (U07.1),07/18/2020,Beneficiary Count,69609
+02/20/2021,COVID-19 Weekly Cases (U07.1),07/25/2020,Beneficiary Count,65578
+02/20/2021,COVID-19 Weekly Cases (U07.1),08/01/2020,Beneficiary Count,67434
+02/20/2021,COVID-19 Weekly Cases (U07.1),08/08/2020,Beneficiary Count,53508
+02/20/2021,COVID-19 Weekly Cases (U07.1),08/15/2020,Beneficiary Count,50440
+02/20/2021,COVID-19 Weekly Cases (U07.1),08/22/2020,Beneficiary Count,46209
+02/20/2021,COVID-19 Weekly Cases (U07.1),08/29/2020,Beneficiary Count,44347
+02/20/2021,COVID-19 Weekly Cases (U07.1),09/05/2020,Beneficiary Count,43229
+02/20/2021,COVID-19 Weekly Cases (U07.1),09/12/2020,Beneficiary Count,37274
+02/20/2021,COVID-19 Weekly Cases (U07.1),09/19/2020,Beneficiary Count,42491
+02/20/2021,COVID-19 Weekly Cases (U07.1),09/26/2020,Beneficiary Count,43225
+02/20/2021,COVID-19 Weekly Cases (U07.1),10/03/2020,Beneficiary Count,50310
+02/20/2021,COVID-19 Weekly Cases (U07.1),10/10/2020,Beneficiary Count,56131
+02/20/2021,COVID-19 Weekly Cases (U07.1),10/17/2020,Beneficiary Count,61174
+02/20/2021,COVID-19 Weekly Cases (U07.1),10/24/2020,Beneficiary Count,69066
+02/20/2021,COVID-19 Weekly Cases (U07.1),10/31/2020,Beneficiary Count,85426
+02/20/2021,COVID-19 Weekly Cases (U07.1),11/07/2020,Beneficiary Count,96774
+02/20/2021,COVID-19 Weekly Cases (U07.1),11/14/2020,Beneficiary Count,128670
+02/20/2021,COVID-19 Weekly Cases (U07.1),11/21/2020,Beneficiary Count,143263
+02/20/2021,COVID-19 Weekly Cases (U07.1),11/28/2020,Beneficiary Count,136126
+02/20/2021,COVID-19 Weekly Cases (U07.1),12/05/2020,Beneficiary Count,179092
+02/20/2021,COVID-19 Weekly Cases (U07.1),12/12/2020,Beneficiary Count,170625
+02/20/2021,COVID-19 Weekly Cases (U07.1),12/19/2020,Beneficiary Count,174050
+02/20/2021,COVID-19 Weekly Cases (U07.1),12/26/2020,Beneficiary Count,157472
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/02/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/04/2020,Beneficiary Count,440
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/09/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/11/2020,Beneficiary Count,731
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/16/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/18/2020,Beneficiary Count,704
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/23/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/25/2020,Beneficiary Count,578
+02/20/2021,COVID-19 Weekly Cases  (B97.29),01/30/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/01/2020,Beneficiary Count,602
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/06/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/08/2020,Beneficiary Count,599
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/13/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/15/2020,Beneficiary Count,573
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/20/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/22/2020,Beneficiary Count,550
+02/20/2021,COVID-19 Weekly Cases  (B97.29),02/29/2020,Beneficiary Count,506
+02/20/2021,COVID-19 Weekly Cases  (B97.29),03/07/2020,Beneficiary Count,700
+02/20/2021,COVID-19 Weekly Cases  (B97.29),03/14/2020,Beneficiary Count,1389
+02/20/2021,COVID-19 Weekly Cases  (B97.29),03/21/2020,Beneficiary Count,6583
+02/20/2021,COVID-19 Weekly Cases  (B97.29),03/28/2020,Beneficiary Count,19943
+02/20/2021,COVID-19 Weekly Cases  (B97.29),04/04/2020,Beneficiary Count,15344
+02/20/2021,COVID-19 Weekly Cases  (B97.29),04/11/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),04/18/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),04/25/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),05/02/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),05/09/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),05/16/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),05/23/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),05/30/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),06/06/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),06/13/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),06/20/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),06/27/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),07/04/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),07/11/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),07/18/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),07/25/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),08/01/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),08/08/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),08/15/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),08/22/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),08/29/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),09/05/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),09/12/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),09/19/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),09/26/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),10/03/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),10/10/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),10/17/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),10/24/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),10/31/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),11/07/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),11/14/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),11/21/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),11/28/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),12/05/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),12/12/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),12/19/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Cases  (B97.29),12/26/2020,Beneficiary Count,0
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),01/04/2020,Beneficiary Count,12729
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),01/11/2020,Beneficiary Count,23691
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),01/18/2020,Beneficiary Count,20160
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),01/25/2020,Beneficiary Count,18716
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),02/01/2020,Beneficiary Count,20354
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),02/08/2020,Beneficiary Count,18942
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),02/15/2020,Beneficiary Count,19088
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),02/22/2020,Beneficiary Count,18734
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),02/29/2020,Beneficiary Count,20424
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),03/07/2020,Beneficiary Count,19481
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),03/14/2020,Beneficiary Count,19171
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),03/21/2020,Beneficiary Count,17616
+02/20/2021,Other Respiratory Infection Weekly Cases (J80/J22/J988/J1289),03/28/2020,Beneficiary Count,17211
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - 65-74,Beneficiary Count,9439
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - 75-84,Beneficiary Count,6816
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - 85 And Over,Beneficiary Count,2978
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - Less Than 65,Beneficiary Count,5893
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - 65-74,Beneficiary Count,40189
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - 75-84,Beneficiary Count,28186
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - 85 And Over,Beneficiary Count,19153
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - Less Than 65,Beneficiary Count,7942
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - 65-74,Beneficiary Count,194459
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - 75-84,Beneficiary Count,123508
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - 85 And Over,Beneficiary Count,64491
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - Less Than 65,Beneficiary Count,121154
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - 65-74,Beneficiary Count,217969
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - 75-84,Beneficiary Count,138745
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - 85 And Over,Beneficiary Count,65441
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - Less Than 65,Beneficiary Count,87932
+02/20/2021,COVID-19 Cases by Race and Age Group,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - 65-74,Beneficiary Count,46361
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - 75-84,Beneficiary Count,16585
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - 85 And Over,Beneficiary Count,5712
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - Less Than 65,Beneficiary Count,8108
+02/20/2021,COVID-19 Cases by Race and Age Group,White - 65-74,Beneficiary Count,965095
+02/20/2021,COVID-19 Cases by Race and Age Group,White - 75-84,Beneficiary Count,831907
+02/20/2021,COVID-19 Cases by Race and Age Group,White - 85 And Over,Beneficiary Count,594309
+02/20/2021,COVID-19 Cases by Race and Age Group,White - Less Than 65,Beneficiary Count,258012
+02/20/2021,COVID-19 Cases by Race and Sex,American Indian / Alaska Native - Female,Beneficiary Count,14667
+02/20/2021,COVID-19 Cases by Race and Sex,American Indian / Alaska Native - Male,Beneficiary Count,10459
+02/20/2021,COVID-19 Cases by Race and Sex,Asian / Pacific Islander - Female,Beneficiary Count,50985
+02/20/2021,COVID-19 Cases by Race and Sex,Asian / Pacific Islander - Male,Beneficiary Count,44485
+02/20/2021,COVID-19 Cases by Race and Sex,Black/African American - Female,Beneficiary Count,294901
+02/20/2021,COVID-19 Cases by Race and Sex,Black/African American - Male,Beneficiary Count,208711
+02/20/2021,COVID-19 Cases by Race and Sex,Hispanic - Female,Beneficiary Count,280932
+02/20/2021,COVID-19 Cases by Race and Sex,Hispanic - Male,Beneficiary Count,229155
+02/20/2021,COVID-19 Cases by Race and Sex,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Race and Sex,Other/Unknown - Female,Beneficiary Count,31930
+02/20/2021,COVID-19 Cases by Race and Sex,Other/Unknown - Male,Beneficiary Count,44836
+02/20/2021,COVID-19 Cases by Race and Sex,White - Female,Beneficiary Count,1497801
+02/20/2021,COVID-19 Cases by Race and Sex,White - Male,Beneficiary Count,1151522
+02/20/2021,COVID-19 Cases by Race and Medicare Status,American Indian / Alaska Native - Aged,Beneficiary Count,18294
+02/20/2021,COVID-19 Cases by Race and Medicare Status,American Indian / Alaska Native - Disabled,Beneficiary Count,5399
+02/20/2021,COVID-19 Cases by Race and Medicare Status,American Indian / Alaska Native - Esrd,Beneficiary Count,1433
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Asian / Pacific Islander - Aged,Beneficiary Count,84771
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Asian / Pacific Islander - Disabled,Beneficiary Count,7320
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Asian / Pacific Islander - Esrd,Beneficiary Count,3379
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Black/African American - Aged,Beneficiary Count,359509
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Black/African American - Disabled,Beneficiary Count,115166
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Black/African American - Esrd,Beneficiary Count,28937
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Hispanic - Aged,Beneficiary Count,406474
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Hispanic - Disabled,Beneficiary Count,84496
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Hispanic - Esrd,Beneficiary Count,19117
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Missing Data,Beneficiary Count,573
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Other/Unknown - Aged,Beneficiary Count,67234
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Other/Unknown - Disabled,Beneficiary Count,7672
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Other/Unknown - Esrd,Beneficiary Count,1860
+02/20/2021,COVID-19 Cases by Race and Medicare Status,White - Aged,Beneficiary Count,2351128
+02/20/2021,COVID-19 Cases by Race and Medicare Status,White - Disabled,Beneficiary Count,267965
+02/20/2021,COVID-19 Cases by Race and Medicare Status,White - Esrd,Beneficiary Count,30230
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - 65-74,Beneficiary Count per 100K,8790
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - 75-84,Beneficiary Count per 100K,10197
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - 85 And Over,Beneficiary Count per 100K,12577
+02/20/2021,COVID-19 Cases by Race and Age Group,American Indian / Alaska Native - Less Than 65,Beneficiary Count per 100K,8814
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - 65-74,Beneficiary Count per 100K,3471
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - 75-84,Beneficiary Count per 100K,4229
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - 85 And Over,Beneficiary Count per 100K,6669
+02/20/2021,COVID-19 Cases by Race and Age Group,Asian / Pacific Islander - Less Than 65,Beneficiary Count per 100K,5566
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - 65-74,Beneficiary Count per 100K,6535
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - 75-84,Beneficiary Count per 100K,8334
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - 85 And Over,Beneficiary Count per 100K,11188
+02/20/2021,COVID-19 Cases by Race and Age Group,Black/African American - Less Than 65,Beneficiary Count per 100K,7720
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - 65-74,Beneficiary Count per 100K,7808
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - 75-84,Beneficiary Count per 100K,8440
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - 85 And Over,Beneficiary Count per 100K,9898
+02/20/2021,COVID-19 Cases by Race and Age Group,Hispanic - Less Than 65,Beneficiary Count per 100K,9100
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - 65-74,Beneficiary Count per 100K,3933
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - 75-84,Beneficiary Count per 100K,5075
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - 85 And Over,Beneficiary Count per 100K,7274
+02/20/2021,COVID-19 Cases by Race and Age Group,Other/Unknown - Less Than 65,Beneficiary Count per 100K,5285
+02/20/2021,COVID-19 Cases by Race and Age Group,White - 65-74,Beneficiary Count per 100K,4578
+02/20/2021,COVID-19 Cases by Race and Age Group,White - 75-84,Beneficiary Count per 100K,5959
+02/20/2021,COVID-19 Cases by Race and Age Group,White - 85 And Over,Beneficiary Count per 100K,9860
+02/20/2021,COVID-19 Cases by Race and Age Group,White - Less Than 65,Beneficiary Count per 100K,5319
+02/20/2021,COVID-19 Cases by Race and Sex,American Indian / Alaska Native - Female,Beneficiary Count per 100K,9853
+02/20/2021,COVID-19 Cases by Race and Sex,American Indian / Alaska Native - Male,Beneficiary Count per 100K,9023
+02/20/2021,COVID-19 Cases by Race and Sex,Asian / Pacific Islander - Female,Beneficiary Count per 100K,4060
+02/20/2021,COVID-19 Cases by Race and Sex,Asian / Pacific Islander - Male,Beneficiary Count per 100K,4455
+02/20/2021,COVID-19 Cases by Race and Sex,Black/African American - Female,Beneficiary Count per 100K,7847
+02/20/2021,COVID-19 Cases by Race and Sex,Black/African American - Male,Beneficiary Count per 100K,7335
+02/20/2021,COVID-19 Cases by Race and Sex,Hispanic - Female,Beneficiary Count per 100K,8580
+02/20/2021,COVID-19 Cases by Race and Sex,Hispanic - Male,Beneficiary Count per 100K,8217
+02/20/2021,COVID-19 Cases by Race and Sex,Other/Unknown - Female,Beneficiary Count per 100K,4433
+02/20/2021,COVID-19 Cases by Race and Sex,Other/Unknown - Male,Beneficiary Count per 100K,4408
+02/20/2021,COVID-19 Cases by Race and Sex,White - Female,Beneficiary Count per 100K,5995
+02/20/2021,COVID-19 Cases by Race and Sex,White - Male,Beneficiary Count per 100K,5501
+02/20/2021,COVID-19 Cases by Race and Medicare Status,American Indian / Alaska Native - Aged,Beneficiary Count per 100K,9511
+02/20/2021,COVID-19 Cases by Race and Medicare Status,American Indian / Alaska Native - Disabled,Beneficiary Count per 100K,8017
+02/20/2021,COVID-19 Cases by Race and Medicare Status,American Indian / Alaska Native - Esrd,Beneficiary Count per 100K,28187
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Asian / Pacific Islander - Aged,Beneficiary Count per 100K,4057
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Asian / Pacific Islander - Disabled,Beneficiary Count per 100K,5141
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Asian / Pacific Islander - Esrd,Beneficiary Count per 100K,14899
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Black/African American - Aged,Beneficiary Count per 100K,7375
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Black/African American - Disabled,Beneficiary Count per 100K,7237
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Black/African American - Esrd,Beneficiary Count per 100K,21038
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Hispanic - Aged,Beneficiary Count per 100K,8128
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Hispanic - Disabled,Beneficiary Count per 100K,8566
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Hispanic - Esrd,Beneficiary Count per 100K,25158
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Other/Unknown - Aged,Beneficiary Count per 100K,4280
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Other/Unknown - Disabled,Beneficiary Count per 100K,4968
+02/20/2021,COVID-19 Cases by Race and Medicare Status,Other/Unknown - Esrd,Beneficiary Count per 100K,15583
+02/20/2021,COVID-19 Cases by Race and Medicare Status,White - Aged,Beneficiary Count per 100K,5786
+02/20/2021,COVID-19 Cases by Race and Medicare Status,White - Disabled,Beneficiary Count per 100K,5252
+02/20/2021,COVID-19 Cases by Race and Medicare Status,White - Esrd,Beneficiary Count per 100K,16554
+02/20/2021,COVID-19 Hospitalizations,Overall,Beneficiary Count,1058736
+02/20/2021,COVID-19 Hospitalizations by State,Alabama,Beneficiary Count,25257
+02/20/2021,COVID-19 Hospitalizations by State,Alaska,Beneficiary Count,857
+02/20/2021,COVID-19 Hospitalizations by State,Arizona,Beneficiary Count,25737
+02/20/2021,COVID-19 Hospitalizations by State,Arkansas,Beneficiary Count,11018
+02/20/2021,COVID-19 Hospitalizations by State,California,Beneficiary Count,86971
+02/20/2021,COVID-19 Hospitalizations by State,Colorado,Beneficiary Count,9901
+02/20/2021,COVID-19 Hospitalizations by State,Connecticut,Beneficiary Count,12584
+02/20/2021,COVID-19 Hospitalizations by State,Delaware,Beneficiary Count,3421
+02/20/2021,COVID-19 Hospitalizations by State,District Of Columbia,Beneficiary Count,2252
+02/20/2021,COVID-19 Hospitalizations by State,Florida,Beneficiary Count,78046
+02/20/2021,COVID-19 Hospitalizations by State,Georgia,Beneficiary Count,40150
+02/20/2021,COVID-19 Hospitalizations by State,Hawaii,Beneficiary Count,897
+02/20/2021,COVID-19 Hospitalizations by State,Idaho,Beneficiary Count,4438
+02/20/2021,COVID-19 Hospitalizations by State,Illinois,Beneficiary Count,46751
+02/20/2021,COVID-19 Hospitalizations by State,Indiana,Beneficiary Count,25353
+02/20/2021,COVID-19 Hospitalizations by State,Iowa,Beneficiary Count,10847
+02/20/2021,COVID-19 Hospitalizations by State,Kansas,Beneficiary Count,9545
+02/20/2021,COVID-19 Hospitalizations by State,Kentucky,Beneficiary Count,16067
+02/20/2021,COVID-19 Hospitalizations by State,Louisiana,Beneficiary Count,22363
+02/20/2021,COVID-19 Hospitalizations by State,Maine,Beneficiary Count,1324
+02/20/2021,COVID-19 Hospitalizations by State,Maryland,Beneficiary Count,16212
+02/20/2021,COVID-19 Hospitalizations by State,Massachusetts,Beneficiary Count,22378
+02/20/2021,COVID-19 Hospitalizations by State,Michigan,Beneficiary Count,33451
+02/20/2021,COVID-19 Hospitalizations by State,Minnesota,Beneficiary Count,11448
+02/20/2021,COVID-19 Hospitalizations by State,Missing Data,Beneficiary Count,220
+02/20/2021,COVID-19 Hospitalizations by State,Mississippi,Beneficiary Count,15547
+02/20/2021,COVID-19 Hospitalizations by State,Missouri,Beneficiary Count,23637
+02/20/2021,COVID-19 Hospitalizations by State,Montana,Beneficiary Count,3144
+02/20/2021,COVID-19 Hospitalizations by State,Nebraska,Beneficiary Count,6455
+02/20/2021,COVID-19 Hospitalizations by State,Nevada,Beneficiary Count,10115
+02/20/2021,COVID-19 Hospitalizations by State,New Hampshire,Beneficiary Count,2188
+02/20/2021,COVID-19 Hospitalizations by State,New Jersey,Beneficiary Count,36026
+02/20/2021,COVID-19 Hospitalizations by State,New Mexico,Beneficiary Count,6201
+02/20/2021,COVID-19 Hospitalizations by State,New York,Beneficiary Count,80131
+02/20/2021,COVID-19 Hospitalizations by State,North Carolina,Beneficiary Count,30609
+02/20/2021,COVID-19 Hospitalizations by State,North Dakota,Beneficiary Count,2589
+02/20/2021,COVID-19 Hospitalizations by State,Ohio,Beneficiary Count,44408
+02/20/2021,COVID-19 Hospitalizations by State,Oklahoma,Beneficiary Count,16307
+02/20/2021,COVID-19 Hospitalizations by State,Oregon,Beneficiary Count,4049
+02/20/2021,COVID-19 Hospitalizations by State,Pennsylvania,Beneficiary Count,46917
+02/20/2021,COVID-19 Hospitalizations by State,Puerto Rico,Beneficiary Count,3156
+02/20/2021,COVID-19 Hospitalizations by State,Rhode Island,Beneficiary Count,3305
+02/20/2021,COVID-19 Hospitalizations by State,South Carolina,Beneficiary Count,21092
+02/20/2021,COVID-19 Hospitalizations by State,South Dakota,Beneficiary Count,3555
+02/20/2021,COVID-19 Hospitalizations by State,Tennessee,Beneficiary Count,25823
+02/20/2021,COVID-19 Hospitalizations by State,Territories,Beneficiary Count,107
+02/20/2021,COVID-19 Hospitalizations by State,Texas,Beneficiary Count,95033
+02/20/2021,COVID-19 Hospitalizations by State,Utah,Beneficiary Count,4725
+02/20/2021,COVID-19 Hospitalizations by State,Vermont,Beneficiary Count,419
+02/20/2021,COVID-19 Hospitalizations by State,Virgin Islands,Beneficiary Count,84
+02/20/2021,COVID-19 Hospitalizations by State,Virginia,Beneficiary Count,21229
+02/20/2021,COVID-19 Hospitalizations by State,Washington,Beneficiary Count,9320
+02/20/2021,COVID-19 Hospitalizations by State,West Virginia,Beneficiary Count,5750
+02/20/2021,COVID-19 Hospitalizations by State,Wisconsin,Beneficiary Count,17658
+02/20/2021,COVID-19 Hospitalizations by State,Wyoming,Beneficiary Count,1669
+02/20/2021,COVID-19 Hospitalizations by Rural/Urban,Missing Data,Beneficiary Count,2939
+02/20/2021,COVID-19 Hospitalizations by Rural/Urban,Rural,Beneficiary Count,204577
+02/20/2021,COVID-19 Hospitalizations by Rural/Urban,Urban,Beneficiary Count,851220
+02/20/2021,COVID-19 Hospitalizations by Age Group,65-74,Beneficiary Count,343923
+02/20/2021,COVID-19 Hospitalizations by Age Group,75-84,Beneficiary Count,353219
+02/20/2021,COVID-19 Hospitalizations by Age Group,85 And Over,Beneficiary Count,236643
+02/20/2021,COVID-19 Hospitalizations by Age Group,Less Than 65,Beneficiary Count,124909
+02/20/2021,COVID-19 Hospitalizations by Age Group,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Race,American Indian / Alaska Native,Beneficiary Count,9896
+02/20/2021,COVID-19 Hospitalizations by Race,Asian / Pacific Islander,Beneficiary Count,28815
+02/20/2021,COVID-19 Hospitalizations by Race,Black/African American,Beneficiary Count,184803
+02/20/2021,COVID-19 Hospitalizations by Race,Hispanic,Beneficiary Count,147708
+02/20/2021,COVID-19 Hospitalizations by Race,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Race,Other/Unknown,Beneficiary Count,18174
+02/20/2021,COVID-19 Hospitalizations by Race,White,Beneficiary Count,669298
+02/20/2021,COVID-19 Hospitalizations by Sex,Female,Beneficiary Count,527708
+02/20/2021,COVID-19 Hospitalizations by Sex,Male,Beneficiary Count,530986
+02/20/2021,COVID-19 Hospitalizations by Sex,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,Aged,Beneficiary Count,897816
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,Disabled,Beneficiary Count,116839
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,ESRD,Beneficiary Count,44039
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Dual Status,Dual Medicare And Medicaid,Beneficiary Count,384813
+02/20/2021,COVID-19 Hospitalizations by Dual Status,Medicare Only,Beneficiary Count,673881
+02/20/2021,COVID-19 Hospitalizations by Dual Status,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - 65-74,Beneficiary Count,115916
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - 75-84,Beneficiary Count,107343
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - 85 And Over,Beneficiary Count,76292
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - Less Than 65,Beneficiary Count,85262
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - 65-74,Beneficiary Count,228007
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - 75-84,Beneficiary Count,245876
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - 85 And Over,Beneficiary Count,160351
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - Less Than 65,Beneficiary Count,39647
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - American Indian / Alaska Native,Beneficiary Count,4748
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Asian / Pacific Islander,Beneficiary Count,16130
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Black/African American,Beneficiary Count,99386
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Hispanic,Beneficiary Count,83891
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Other/Unknown,Beneficiary Count,6560
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - White,Beneficiary Count,174098
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - American Indian / Alaska Native,Beneficiary Count,5148
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Asian / Pacific Islander,Beneficiary Count,12685
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Black/African American,Beneficiary Count,85417
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Hispanic,Beneficiary Count,63817
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Other/Unknown,Beneficiary Count,11614
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - White,Beneficiary Count,495200
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Dual Medicare And Medicaid - Female,Beneficiary Count,215707
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Dual Medicare And Medicaid - Male,Beneficiary Count,169106
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Medicare Only - Female,Beneficiary Count,312001
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Medicare Only - Male,Beneficiary Count,361880
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Dual Medicare And Medicaid - Aged,Beneficiary Count,281303
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Dual Medicare And Medicaid - Disabled,Beneficiary Count,78529
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Dual Medicare And Medicaid - Esrd,Beneficiary Count,24981
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Medicare Only - Aged,Beneficiary Count,616513
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Medicare Only - Disabled,Beneficiary Count,38310
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Medicare Only - Esrd,Beneficiary Count,19058
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations,Overall,Beneficiary Count per 100K,1694
+02/20/2021,COVID-19 Hospitalizations by State,Alabama,Beneficiary Count per 100K,2392
+02/20/2021,COVID-19 Hospitalizations by State,Alaska,Beneficiary Count per 100K,824
+02/20/2021,COVID-19 Hospitalizations by State,Arizona,Beneficiary Count per 100K,1890
+02/20/2021,COVID-19 Hospitalizations by State,Arkansas,Beneficiary Count per 100K,1707
+02/20/2021,COVID-19 Hospitalizations by State,California,Beneficiary Count per 100K,1386
+02/20/2021,COVID-19 Hospitalizations by State,Colorado,Beneficiary Count per 100K,1067
+02/20/2021,COVID-19 Hospitalizations by State,Connecticut,Beneficiary Count per 100K,1826
+02/20/2021,COVID-19 Hospitalizations by State,Delaware,Beneficiary Count per 100K,1588
+02/20/2021,COVID-19 Hospitalizations by State,District Of Columbia,Beneficiary Count per 100K,2434
+02/20/2021,COVID-19 Hospitalizations by State,Florida,Beneficiary Count per 100K,1667
+02/20/2021,COVID-19 Hospitalizations by State,Georgia,Beneficiary Count per 100K,2288
+02/20/2021,COVID-19 Hospitalizations by State,Hawaii,Beneficiary Count per 100K,319
+02/20/2021,COVID-19 Hospitalizations by State,Idaho,Beneficiary Count per 100K,1268
+02/20/2021,COVID-19 Hospitalizations by State,Illinois,Beneficiary Count per 100K,2083
+02/20/2021,COVID-19 Hospitalizations by State,Indiana,Beneficiary Count per 100K,1978
+02/20/2021,COVID-19 Hospitalizations by State,Iowa,Beneficiary Count per 100K,1703
+02/20/2021,COVID-19 Hospitalizations by State,Kansas,Beneficiary Count per 100K,1749
+02/20/2021,COVID-19 Hospitalizations by State,Kentucky,Beneficiary Count per 100K,1726
+02/20/2021,COVID-19 Hospitalizations by State,Louisiana,Beneficiary Count per 100K,2534
+02/20/2021,COVID-19 Hospitalizations by State,Maine,Beneficiary Count per 100K,383
+02/20/2021,COVID-19 Hospitalizations by State,Maryland,Beneficiary Count per 100K,1536
+02/20/2021,COVID-19 Hospitalizations by State,Massachusetts,Beneficiary Count per 100K,1657
+02/20/2021,COVID-19 Hospitalizations by State,Michigan,Beneficiary Count per 100K,1594
+02/20/2021,COVID-19 Hospitalizations by State,Minnesota,Beneficiary Count per 100K,1095
+02/20/2021,COVID-19 Hospitalizations by State,Missing Data,Beneficiary Count per 100K,35
+02/20/2021,COVID-19 Hospitalizations by State,Mississippi,Beneficiary Count per 100K,2551
+02/20/2021,COVID-19 Hospitalizations by State,Missouri,Beneficiary Count per 100K,1896
+02/20/2021,COVID-19 Hospitalizations by State,Montana,Beneficiary Count per 100K,1325
+02/20/2021,COVID-19 Hospitalizations by State,Nebraska,Beneficiary Count per 100K,1826
+02/20/2021,COVID-19 Hospitalizations by State,Nevada,Beneficiary Count per 100K,1849
+02/20/2021,COVID-19 Hospitalizations by State,New Hampshire,Beneficiary Count per 100K,711
+02/20/2021,COVID-19 Hospitalizations by State,New Jersey,Beneficiary Count per 100K,2224
+02/20/2021,COVID-19 Hospitalizations by State,New Mexico,Beneficiary Count per 100K,1450
+02/20/2021,COVID-19 Hospitalizations by State,New York,Beneficiary Count per 100K,2197
+02/20/2021,COVID-19 Hospitalizations by State,North Carolina,Beneficiary Count per 100K,1508
+02/20/2021,COVID-19 Hospitalizations by State,North Dakota,Beneficiary Count per 100K,1935
+02/20/2021,COVID-19 Hospitalizations by State,Ohio,Beneficiary Count per 100K,1876
+02/20/2021,COVID-19 Hospitalizations by State,Oklahoma,Beneficiary Count per 100K,2165
+02/20/2021,COVID-19 Hospitalizations by State,Oregon,Beneficiary Count per 100K,457
+02/20/2021,COVID-19 Hospitalizations by State,Pennsylvania,Beneficiary Count per 100K,1697
+02/20/2021,COVID-19 Hospitalizations by State,Puerto Rico,Beneficiary Count per 100K,421
+02/20/2021,COVID-19 Hospitalizations by State,Rhode Island,Beneficiary Count per 100K,1485
+02/20/2021,COVID-19 Hospitalizations by State,South Carolina,Beneficiary Count per 100K,1912
+02/20/2021,COVID-19 Hospitalizations by State,South Dakota,Beneficiary Count per 100K,1973
+02/20/2021,COVID-19 Hospitalizations by State,Tennessee,Beneficiary Count per 100K,1867
+02/20/2021,COVID-19 Hospitalizations by State,Territories,Beneficiary Count per 100K,590
+02/20/2021,COVID-19 Hospitalizations by State,Texas,Beneficiary Count per 100K,2222
+02/20/2021,COVID-19 Hospitalizations by State,Utah,Beneficiary Count per 100K,1145
+02/20/2021,COVID-19 Hospitalizations by State,Vermont,Beneficiary Count per 100K,277
+02/20/2021,COVID-19 Hospitalizations by State,Virgin Islands,Beneficiary Count per 100K,423
+02/20/2021,COVID-19 Hospitalizations by State,Virginia,Beneficiary Count per 100K,1378
+02/20/2021,COVID-19 Hospitalizations by State,Washington,Beneficiary Count per 100K,667
+02/20/2021,COVID-19 Hospitalizations by State,West Virginia,Beneficiary Count per 100K,1300
+02/20/2021,COVID-19 Hospitalizations by State,Wisconsin,Beneficiary Count per 100K,1471
+02/20/2021,COVID-19 Hospitalizations by State,Wyoming,Beneficiary Count per 100K,1466
+02/20/2021,COVID-19 Hospitalizations by Rural/Urban,Missing Data,Beneficiary Count per 100K,446
+02/20/2021,COVID-19 Hospitalizations by Rural/Urban,Rural,Beneficiary Count per 100K,1696
+02/20/2021,COVID-19 Hospitalizations by Rural/Urban,Urban,Beneficiary Count per 100K,1710
+02/20/2021,COVID-19 Hospitalizations by Age Group,65-74,Beneficiary Count per 100K,1181
+02/20/2021,COVID-19 Hospitalizations by Age Group,75-84,Beneficiary Count per 100K,1958
+02/20/2021,COVID-19 Hospitalizations by Age Group,85 And Over,Beneficiary Count per 100K,3118
+02/20/2021,COVID-19 Hospitalizations by Age Group,Less Than 65,Beneficiary Count per 100K,1612
+02/20/2021,COVID-19 Hospitalizations by Race,American Indian / Alaska Native,Beneficiary Count per 100K,3785
+02/20/2021,COVID-19 Hospitalizations by Race,Asian / Pacific Islander,Beneficiary Count per 100K,1322
+02/20/2021,COVID-19 Hospitalizations by Race,Black/African American,Beneficiary Count per 100K,2821
+02/20/2021,COVID-19 Hospitalizations by Race,Hispanic,Beneficiary Count per 100K,2463
+02/20/2021,COVID-19 Hospitalizations by Race,Other/Unknown,Beneficiary Count per 100K,1062
+02/20/2021,COVID-19 Hospitalizations by Race,White,Beneficiary Count per 100K,1461
+02/20/2021,COVID-19 Hospitalizations by Sex,Female,Beneficiary Count per 100K,1556
+02/20/2021,COVID-19 Hospitalizations by Sex,Male,Beneficiary Count per 100K,1858
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,Aged,Beneficiary Count per 100K,1662
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,Disabled,Beneficiary Count per 100K,1453
+02/20/2021,COVID-19 Hospitalizations by Medicare Status,ESRD,Beneficiary Count per 100K,10191
+02/20/2021,COVID-19 Hospitalizations by Dual Status,Dual Medicare And Medicaid,Beneficiary Count per 100K,3407
+02/20/2021,COVID-19 Hospitalizations by Dual Status,Medicare Only,Beneficiary Count per 100K,1316
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - 65-74,Beneficiary Count per 100K,3131
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - 75-84,Beneficiary Count per 100K,4842
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - 85 And Over,Beneficiary Count per 100K,6100
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Dual Medicare And Medicaid - Less Than 65,Beneficiary Count per 100K,2066
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - 65-74,Beneficiary Count per 100K,897
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - 75-84,Beneficiary Count per 100K,1554
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - 85 And Over,Beneficiary Count per 100K,2530
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Age Group,Medicare Only - Less Than 65,Beneficiary Count per 100K,1094
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - American Indian / Alaska Native,Beneficiary Count per 100K,5078
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Asian / Pacific Islander,Beneficiary Count per 100K,2267
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Black/African American,Beneficiary Count per 100K,4245
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Hispanic,Beneficiary Count per 100K,4063
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - Other/Unknown,Beneficiary Count per 100K,2716
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Dual Medicare And Medicaid - White,Beneficiary Count per 100K,2979
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - American Indian / Alaska Native,Beneficiary Count per 100K,3065
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Asian / Pacific Islander,Beneficiary Count per 100K,864
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Black/African American,Beneficiary Count per 100K,2029
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Hispanic,Beneficiary Count per 100K,1623
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - Other/Unknown,Beneficiary Count per 100K,790
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Race,Medicare Only - White,Beneficiary Count per 100K,1239
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Dual Medicare And Medicaid - Female,Beneficiary Count per 100K,3214
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Dual Medicare And Medicaid - Male,Beneficiary Count per 100K,3688
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Medicare Only - Female,Beneficiary Count per 100K,1147
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Sex,Medicare Only - Male,Beneficiary Count per 100K,1508
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Dual Medicare And Medicaid - Aged,Beneficiary Count per 100K,4066
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Dual Medicare And Medicaid - Disabled,Beneficiary Count per 100K,1870
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Dual Medicare And Medicaid - Esrd,Beneficiary Count per 100K,14014
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Medicare Only - Aged,Beneficiary Count per 100K,1309
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Medicare Only - Disabled,Beneficiary Count per 100K,997
+02/20/2021,COVID-19 Hospitalizations by Dual Status and Medicare Status,Medicare Only - Esrd,Beneficiary Count per 100K,7507
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/02/2021,Beneficiary Count,50202
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/04/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/09/2021,Beneficiary Count,54896
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/11/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/16/2021,Beneficiary Count,52591
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/18/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/23/2021,Beneficiary Count,46416
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/25/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),01/30/2021,Beneficiary Count,38987
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/01/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/06/2021,Beneficiary Count,31107
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/08/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/13/2021,Beneficiary Count,24284
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/15/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/20/2021,Beneficiary Count,16471
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/22/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),02/29/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),03/07/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),03/14/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),03/21/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),03/28/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),04/04/2020,Beneficiary Count,9335
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),04/11/2020,Beneficiary Count,20758
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),04/18/2020,Beneficiary Count,22469
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),04/25/2020,Beneficiary Count,20556
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),05/02/2020,Beneficiary Count,18767
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),05/09/2020,Beneficiary Count,16191
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),05/16/2020,Beneficiary Count,12981
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),05/23/2020,Beneficiary Count,11423
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),05/30/2020,Beneficiary Count,9872
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),06/06/2020,Beneficiary Count,8811
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),06/13/2020,Beneficiary Count,7791
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),06/20/2020,Beneficiary Count,7406
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),06/27/2020,Beneficiary Count,8549
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),07/04/2020,Beneficiary Count,10565
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),07/11/2020,Beneficiary Count,14084
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),07/18/2020,Beneficiary Count,16713
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),07/25/2020,Beneficiary Count,18432
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),08/01/2020,Beneficiary Count,17866
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),08/08/2020,Beneficiary Count,16661
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),08/15/2020,Beneficiary Count,15427
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),08/22/2020,Beneficiary Count,13605
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),08/29/2020,Beneficiary Count,12425
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),09/05/2020,Beneficiary Count,11396
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),09/12/2020,Beneficiary Count,10134
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),09/19/2020,Beneficiary Count,9804
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),09/26/2020,Beneficiary Count,9751
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),10/03/2020,Beneficiary Count,10456
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),10/10/2020,Beneficiary Count,11872
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),10/17/2020,Beneficiary Count,13946
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),10/24/2020,Beneficiary Count,15588
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),10/31/2020,Beneficiary Count,17806
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),11/07/2020,Beneficiary Count,21435
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),11/14/2020,Beneficiary Count,27553
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),11/21/2020,Beneficiary Count,33653
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),11/28/2020,Beneficiary Count,36951
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),12/05/2020,Beneficiary Count,43815
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),12/12/2020,Beneficiary Count,46399
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),12/19/2020,Beneficiary Count,48741
+02/20/2021,COVID-19 Weekly Hospitalizations (U07.1),12/26/2020,Beneficiary Count,46941
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/02/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/04/2020,Beneficiary Count,290
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/09/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/11/2020,Beneficiary Count,576
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/16/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/18/2020,Beneficiary Count,573
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/23/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/25/2020,Beneficiary Count,456
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),01/30/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/01/2020,Beneficiary Count,458
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/06/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/08/2020,Beneficiary Count,471
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/13/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/15/2020,Beneficiary Count,443
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/20/2021,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/22/2020,Beneficiary Count,403
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),02/29/2020,Beneficiary Count,333
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),03/07/2020,Beneficiary Count,359
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),03/14/2020,Beneficiary Count,512
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),03/21/2020,Beneficiary Count,1471
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),03/28/2020,Beneficiary Count,5626
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),04/04/2020,Beneficiary Count,4883
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),04/11/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),04/18/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),04/25/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),05/02/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),05/09/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),05/16/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),05/23/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),05/30/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),06/06/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),06/13/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),06/20/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),06/27/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),07/04/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),07/11/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),07/18/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),07/25/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),08/01/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),08/08/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),08/15/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),08/22/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),08/29/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),09/05/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),09/12/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),09/19/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),09/26/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),10/03/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),10/10/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),10/17/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),10/24/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),10/31/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),11/07/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),11/14/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),11/21/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),11/28/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),12/05/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),12/12/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),12/19/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Weekly Hospitalizations  (B97.29),12/26/2020,Beneficiary Count,0
+02/20/2021,COVID-19 Inpatient Length of Stay,1,Beneficiary Count,19660
+02/20/2021,COVID-19 Inpatient Length of Stay,2,Beneficiary Count,55588
+02/20/2021,COVID-19 Inpatient Length of Stay,3,Beneficiary Count,96290
+02/20/2021,COVID-19 Inpatient Length of Stay,4,Beneficiary Count,102984
+02/20/2021,COVID-19 Inpatient Length of Stay,5,Beneficiary Count,108542
+02/20/2021,COVID-19 Inpatient Length of Stay,6,Beneficiary Count,101019
+02/20/2021,COVID-19 Inpatient Length of Stay,7,Beneficiary Count,80669
+02/20/2021,COVID-19 Inpatient Length of Stay,8-10,Beneficiary Count,160960
+02/20/2021,COVID-19 Inpatient Length of Stay,11-15,Beneficiary Count,147767
+02/20/2021,COVID-19 Inpatient Length of Stay,16-20,Beneficiary Count,74708
+02/20/2021,COVID-19 Inpatient Length of Stay,21-30,Beneficiary Count,65742
+02/20/2021,COVID-19 Inpatient Length of Stay,31+,Beneficiary Count,44807
+02/20/2021,COVID-19 Inpatient Discharge Status,Home,Beneficiary Count,380910
+02/20/2021,COVID-19 Inpatient Discharge Status,Skilled Nursing Facility,Beneficiary Count,201814
+02/20/2021,COVID-19 Inpatient Discharge Status,Expired,Beneficiary Count,188281
+02/20/2021,COVID-19 Inpatient Discharge Status,Home Health,Beneficiary Count,178982
+02/20/2021,COVID-19 Inpatient Discharge Status,Hospice,Beneficiary Count,51741
+02/20/2021,COVID-19 Inpatient Discharge Status,Another Health Care Facility,Beneficiary Count,33694
+02/20/2021,COVID-19 Inpatient Discharge Status,Assisted Living/Nursing Home,Beneficiary Count,16046
+02/20/2021,COVID-19 Inpatient Discharge Status,Other,Beneficiary Count,7268
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,DENOM (FFS BENES 2020),Beneficiary Count,597820
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Hypertension,Beneficiary Count,504231
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Hyperlipidemia,Beneficiary Count,405509
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Chronic Kidney Disease,Beneficiary Count,374347
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Ischemic Heart Disease,Beneficiary Count,310173
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Anemia,Beneficiary Count,302507
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Diabetes,Beneficiary Count,301993
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Rheumatoid Arthritis/Osteoarthritis,Beneficiary Count,284182
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Heart Failure,Beneficiary Count,234101
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Depression,Beneficiary Count,212739
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Obesity,Beneficiary Count,207149
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Alzheimer Disease/Dementia,Beneficiary Count,205759
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Peripheral Vascular Disease,Beneficiary Count,188916
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,COPD,Beneficiary Count,163216
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Atrial Fibrillation,Beneficiary Count,103317
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Cancer,Beneficiary Count,86969
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Asthma,Beneficiary Count,58398
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Stroke,Beneficiary Count,57827
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Osteoporosis,Beneficiary Count,56832
+02/20/2021,Chronic Condition Prevalence Among FFS COVID-19 Hospitalizations,Schizophrenia,Beneficiary Count,52006
+02/20/2021,Medicare Payments for FFS COVID-19 Hospitalizations,Beneficaries with a FFS Hospitalization,Beneficiary Count,655526
+02/20/2021,Medicare Payments for FFS COVID-19 Hospitalizations,Total Medicare Payment,Payment,15462016706
+02/20/2021,Medicare Payments for FFS COVID-19 Hospitalizations,Average Medicare Payment,Payment,23587
+02/20/2021,Medicare Payments for FFS COVID-19 Hospitalizations,Medicare Payment: 5th Percentile,Payment,4606
+02/20/2021,Medicare Payments for FFS COVID-19 Hospitalizations,Medicare Payment: 95th Percentile,Payment,64932
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - 65-74,Beneficiary Count,3664
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - 75-84,Beneficiary Count,2940
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - 85 And Over,Beneficiary Count,1234
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - Less Than 65,Beneficiary Count,2058
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - 65-74,Beneficiary Count,10127
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - 75-84,Beneficiary Count,9425
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - 85 And Over,Beneficiary Count,6809
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - Less Than 65,Beneficiary Count,2454
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - 65-74,Beneficiary Count,66912
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - 75-84,Beneficiary Count,52021
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - 85 And Over,Beneficiary Count,27113
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - Less Than 65,Beneficiary Count,38757
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - 65-74,Beneficiary Count,55523
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - 75-84,Beneficiary Count,45098
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - 85 And Over,Beneficiary Count,24303
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - Less Than 65,Beneficiary Count,22784
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - 65-74,Beneficiary Count,9344
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - 75-84,Beneficiary Count,4864
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - 85 And Over,Beneficiary Count,2051
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - Less Than 65,Beneficiary Count,1915
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - 65-74,Beneficiary Count,198353
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - 75-84,Beneficiary Count,238871
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - 85 And Over,Beneficiary Count,175133
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - Less Than 65,Beneficiary Count,56941
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,American Indian / Alaska Native - Female,Beneficiary Count,5375
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,American Indian / Alaska Native - Male,Beneficiary Count,4521
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Asian / Pacific Islander - Female,Beneficiary Count,13283
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Asian / Pacific Islander - Male,Beneficiary Count,15532
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Black/African American - Female,Beneficiary Count,101257
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Black/African American - Male,Beneficiary Count,83546
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Hispanic - Female,Beneficiary Count,69925
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Hispanic - Male,Beneficiary Count,77783
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Other/Unknown - Female,Beneficiary Count,6807
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Other/Unknown - Male,Beneficiary Count,11367
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,White - Female,Beneficiary Count,331061
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,White - Male,Beneficiary Count,338237
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,American Indian / Alaska Native - Aged,Beneficiary Count,7353
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,American Indian / Alaska Native - Disabled,Beneficiary Count,1741
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,American Indian / Alaska Native - Esrd,Beneficiary Count,802
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Asian / Pacific Islander - Aged,Beneficiary Count,25069
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Asian / Pacific Islander - Disabled,Beneficiary Count,2055
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Asian / Pacific Islander - Esrd,Beneficiary Count,1691
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Black/African American - Aged,Beneficiary Count,134591
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Black/African American - Disabled,Beneficiary Count,34334
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Black/African American - Esrd,Beneficiary Count,15878
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Hispanic - Aged,Beneficiary Count,118034
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Hispanic - Disabled,Beneficiary Count,19566
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Hispanic - Esrd,Beneficiary Count,10108
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Missing Data,Beneficiary Count,42
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Other/Unknown - Aged,Beneficiary Count,15604
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Other/Unknown - Disabled,Beneficiary Count,1622
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Other/Unknown - Esrd,Beneficiary Count,948
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,White - Aged,Beneficiary Count,597165
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,White - Disabled,Beneficiary Count,57521
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,White - Esrd,Beneficiary Count,14612
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - 65-74,Beneficiary Count per 100K,3467
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - 75-84,Beneficiary Count per 100K,4470
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - 85 And Over,Beneficiary Count per 100K,5326
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,American Indian / Alaska Native - Less Than 65,Beneficiary Count per 100K,3078
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - 65-74,Beneficiary Count per 100K,898
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - 75-84,Beneficiary Count per 100K,1473
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - 85 And Over,Beneficiary Count per 100K,2527
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Asian / Pacific Islander - Less Than 65,Beneficiary Count per 100K,1720
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - 65-74,Beneficiary Count per 100K,2275
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - 75-84,Beneficiary Count per 100K,3540
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - 85 And Over,Beneficiary Count per 100K,4754
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Black/African American - Less Than 65,Beneficiary Count per 100K,2470
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - 65-74,Beneficiary Count per 100K,2008
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - 75-84,Beneficiary Count per 100K,2781
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - 85 And Over,Beneficiary Count per 100K,3776
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Hispanic - Less Than 65,Beneficiary Count per 100K,2358
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - 65-74,Beneficiary Count per 100K,803
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - 75-84,Beneficiary Count per 100K,1529
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - 85 And Over,Beneficiary Count per 100K,2735
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,Other/Unknown - Less Than 65,Beneficiary Count per 100K,1248
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - 65-74,Beneficiary Count per 100K,944
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - 75-84,Beneficiary Count per 100K,1715
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - 85 And Over,Beneficiary Count per 100K,2915
+02/20/2021,COVID-19 Hospitalizations by Race and Age Group,White - Less Than 65,Beneficiary Count per 100K,1174
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,American Indian / Alaska Native - Female,Beneficiary Count per 100K,3665
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,American Indian / Alaska Native - Male,Beneficiary Count per 100K,3937
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Asian / Pacific Islander - Female,Beneficiary Count per 100K,1100
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Asian / Pacific Islander - Male,Beneficiary Count per 100K,1597
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Black/African American - Female,Beneficiary Count per 100K,2719
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Black/African American - Male,Beneficiary Count per 100K,2956
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Hispanic - Female,Beneficiary Count per 100K,2168
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Hispanic - Male,Beneficiary Count per 100K,2807
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Other/Unknown - Female,Beneficiary Count per 100K,968
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,Other/Unknown - Male,Beneficiary Count per 100K,1128
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,White - Female,Beneficiary Count per 100K,1329
+02/20/2021,COVID-19 Hospitalizations by Race and Sex,White - Male,Beneficiary Count per 100K,1619
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,American Indian / Alaska Native - Aged,Beneficiary Count per 100K,3888
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,American Indian / Alaska Native - Disabled,Beneficiary Count per 100K,2585
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,American Indian / Alaska Native - Esrd,Beneficiary Count per 100K,16075
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Asian / Pacific Islander - Aged,Beneficiary Count per 100K,1244
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Asian / Pacific Islander - Disabled,Beneficiary Count per 100K,1443
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Asian / Pacific Islander - Esrd,Beneficiary Count per 100K,7709
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Black/African American - Aged,Beneficiary Count per 100K,2791
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Black/African American - Disabled,Beneficiary Count per 100K,2158
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Black/African American - Esrd,Beneficiary Count per 100K,11641
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Hispanic - Aged,Beneficiary Count per 100K,2392
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Hispanic - Disabled,Beneficiary Count per 100K,1984
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Hispanic - Esrd,Beneficiary Count per 100K,13467
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Other/Unknown - Aged,Beneficiary Count per 100K,1010
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Other/Unknown - Disabled,Beneficiary Count per 100K,1050
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,Other/Unknown - Esrd,Beneficiary Count per 100K,8085
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,White - Aged,Beneficiary Count per 100K,1474
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,White - Disabled,Beneficiary Count per 100K,1127
+02/20/2021,COVID-19 Hospitalizations by Race and Medicare Status,White - Esrd,Beneficiary Count per 100K,8027
